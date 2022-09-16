@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a PHP fan, I like to do something fun. Do it better than you say! -- my motto.
+I'm a PHP coder. Deeds are better than words! -- my motto.
 
 ### Contact me
 
