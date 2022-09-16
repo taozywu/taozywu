@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a PHP coder. Deeds are better than words! -- my motto.
+I am interested in PHP, Java, GO and Vue. Deeds are better than words! -- my motto.
 
 ### Contact me
 
