@@ -6,7 +6,7 @@ I am interested in PHP, Java, GO and Vue. Deeds are better than words! -- my mot
 ### Contact me
 
 - Profile: <https://github.com/taozywu>
-- Resume: <https://github.com/taozywu/reasume>
-- Site: <http://athanb.com>
+- Email: <taozy.wu@qq.com>
+- Site: <http://www.athanb.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=taozywu&show_icons=true&theme=dark&count_private=true)
